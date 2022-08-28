@@ -21,3 +21,4 @@ const LuidyMoura = (NumeroLimite) => {
    }
    return (Resultado)
 }
+ console.log(LuidyMoura(45))
